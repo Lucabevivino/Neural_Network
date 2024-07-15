@@ -77,6 +77,9 @@ def predict(self, X):
 def predict_proba(self, X):
     
     return self._forward_propagation(X)
+
+#smanettiamo
+
     
         
 
